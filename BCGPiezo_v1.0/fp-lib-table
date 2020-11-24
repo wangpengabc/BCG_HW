@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 (fp_lib_table
   (lib (name digikey-footprints)(type KiCad)(uri D:/KiCad/digikey-kicad-library-master/digikey-footprints.pretty)(options "")(descr ""))
 )
-=======
-(fp_lib_table
-  (lib (name digikey-footprints)(type KiCad)(uri D:/KiCad/digikey-kicad-library-master/digikey-footprints.pretty)(options "")(descr ""))
-)
->>>>>>> f33a43ac3dc7ae816907e558396766c5b4fa1197
